@@ -92,7 +92,7 @@ def Aliullah_select():
 def Aliullah_TRICKER():
 	os.system('clear')
 	print(logo)
-	os.system('xdg-open https://www.facebook.com/profile.php?id=100007946797233')
+	os.system('xdg-open https://www.facebook.com/BrokeN.KinG789')
 	print('\x1b[1;92m[1]\x1b[1;93m Random UID Cloning')
 	print('\x1b[1;92m[0]\x1b[1;94m Back')
 	print(47*'\033[92;1m-')
